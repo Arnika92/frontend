@@ -1,0 +1,20 @@
+.searchInput{
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    padding: 5px 10px;
+    font-size: 13px;
+    width: 90%;
+    outline: none;
+    margin-left: 10px;
+    color: #213242;
+}
+.searchcontainer{
+padding: 1rem 0rem;
+border: 1px solid #213242;
+background-color: #213242;
+box-shadow: 0 1px 2 px rgb(26, 25, 25);
+width: 300%;
+height: 100vh;
+z-index: 10;
+}
